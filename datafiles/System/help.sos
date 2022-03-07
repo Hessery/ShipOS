@@ -1,0 +1,3 @@
+print startup  runs on startup
+print clear    clears the screen
+print help     shows commands
