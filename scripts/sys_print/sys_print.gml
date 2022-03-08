@@ -1,13 +1,25 @@
-function sys_print(line) {
+function sys_print(line, scope_level) {
 	
-	var str = "";
+	switch (line[1][0]) {
+		
+		case literal:		
 			
-	for (var i = 1; i < array_length(line); i ++) {
-				
-		str += line[i] + " ";
-				
+			log(line[1][1]);
+			
+			return true	
+			
+		break;
+		
+		case identifier:	
+			
+			log(line[1][1][1]);
+			
+			return true	
+			
+		break;
+		
 	}
-			
-	log(str);
+	
+	return false
 	
 }

@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Console",
-    "path": "folders/Functions/Console.yy",
+    "name": "Commands",
+    "path": "folders/Functions/System/Commands.yy",
   },
   "resourceVersion": "1.0",
-  "name": "func_evaluate",
+  "name": "sys_memory",
   "tags": [],
   "resourceType": "GMScript",
 }

@@ -8,3 +8,10 @@ Order of Operations
 4.	Keywords
 5.	Literals
 6.	Identifiers
+
+
+Line types
+
+1.	Evaluation
+2.	Assignment
+3.	Function

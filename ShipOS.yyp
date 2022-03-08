@@ -1,19 +1,21 @@
 {
   "resources": [
     {"id":{"name":"Hesses_Toolkit","path":"extensions/Hesses_Toolkit/Hesses_Toolkit.yy",},"order":0,},
+    {"id":{"name":"memory_init","path":"scripts/memory_init/memory_init.yy",},"order":0,},
     {"id":{"name":"fnt_default","path":"fonts/fnt_default/fnt_default.yy",},"order":1,},
     {"id":{"name":"Note","path":"notes/Note/Note.yy",},"order":2,},
     {"id":{"name":"Hesses_control","path":"objects/Hesses_control/Hesses_control.yy",},"order":1,},
     {"id":{"name":"obj_control","path":"objects/obj_control/obj_control.yy",},"order":3,},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},"order":4,},
-    {"id":{"name":"cmd_evaluate","path":"scripts/cmd_evaluate/cmd_evaluate.yy",},"order":0,},
-    {"id":{"name":"cmd_init","path":"scripts/cmd_init/cmd_init.yy",},"order":0,},
+    {"id":{"name":"func_evaluate","path":"scripts/func_evaluate/func_evaluate.yy",},"order":0,},
+    {"id":{"name":"func_init","path":"scripts/func_init/func_init.yy",},"order":0,},
+    {"id":{"name":"line_evaluate","path":"scripts/line_evaluate/line_evaluate.yy",},"order":10,},
     {"id":{"name":"console_init","path":"scripts/console_init/console_init.yy",},"order":1,},
     {"id":{"name":"console_step","path":"scripts/console_step/console_step.yy",},"order":1,},
     {"id":{"name":"equation_evaluate","path":"scripts/equation_evaluate/equation_evaluate.yy",},"order":2,},
     {"id":{"name":"file_find_in","path":"scripts/file_find_in/file_find_in.yy",},"order":3,},
     {"id":{"name":"file_run","path":"scripts/file_run/file_run.yy",},"order":4,},
-    {"id":{"name":"func_evaluate","path":"scripts/func_evaluate/func_evaluate.yy",},"order":5,},
+    {"id":{"name":"cmd_evaluate","path":"scripts/cmd_evaluate/cmd_evaluate.yy",},"order":5,},
     {"id":{"name":"input_limit","path":"scripts/input_limit/input_limit.yy",},"order":6,},
     {"id":{"name":"log","path":"scripts/log/log.yy",},"order":7,},
     {"id":{"name":"macros","path":"scripts/macros/macros.yy",},"order":6,},
@@ -24,6 +26,7 @@
     {"id":{"name":"sys_and","path":"scripts/sys_and/sys_and.yy",},"order":0,},
     {"id":{"name":"sys_command_evaluate","path":"scripts/sys_command_evaluate/sys_command_evaluate.yy",},"order":2,},
     {"id":{"name":"sys_else","path":"scripts/sys_else/sys_else.yy",},"order":1,},
+    {"id":{"name":"sys_memory","path":"scripts/sys_memory/sys_memory.yy",},"order":8,},
     {"id":{"name":"sys_end","path":"scripts/sys_end/sys_end.yy",},"order":2,},
     {"id":{"name":"sys_if","path":"scripts/sys_if/sys_if.yy",},"order":3,},
     {"id":{"name":"sys_or","path":"scripts/sys_or/sys_or.yy",},"order":4,},
@@ -61,6 +64,7 @@
     {"folderPath":"folders/Functions/System.yy","order":1,"resourceVersion":"1.0","name":"System","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Functions/System/Init.yy","order":0,"resourceVersion":"1.0","name":"Init","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Functions/System/Commands.yy","order":1,"resourceVersion":"1.0","name":"Commands","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Functions/Memory.yy","order":11,"resourceVersion":"1.0","name":"Memory","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
@@ -71,7 +75,6 @@
   "IncludedFiles": [
     {"CopyToMask":-1,"filePath":"datafiles/System","resourceVersion":"1.0","name":"help.sos","resourceType":"GMIncludedFile",},
     {"CopyToMask":-1,"filePath":"datafiles/System","resourceVersion":"1.0","name":"clear.sos","resourceType":"GMIncludedFile",},
-    {"CopyToMask":-1,"filePath":"datafiles/System","resourceVersion":"1.0","name":"startup.sos","resourceType":"GMIncludedFile",},
     {"CopyToMask":-1,"filePath":"datafiles/User","resourceVersion":"1.0","name":"test.sos","resourceType":"GMIncludedFile",},
   ],
   "MetaData": {

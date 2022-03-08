@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Console",
-    "path": "folders/Functions/Console.yy",
+    "name": "Memory",
+    "path": "folders/Functions/Memory.yy",
   },
   "resourceVersion": "1.0",
-  "name": "func_evaluate",
+  "name": "memory_init",
   "tags": [],
   "resourceType": "GMScript",
 }

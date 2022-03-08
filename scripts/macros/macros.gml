@@ -4,13 +4,18 @@
 #macro screen_width		80
 #macro screen_height	24
 
+
+// Scope
+#macro system_scope		0
+
+
 // Token Types
-#macro identifier		0
-#macro keyword			1
+#macro comment			0
+#macro operator			1
 #macro separator		2
-#macro operator			3
+#macro keyword			3
 #macro literal			4
-#macro comment			5
+#macro identifier		5
 
 // Operators
 #macro equals			0
@@ -35,9 +40,8 @@
 #macro IF				0
 #macro ELSE				1
 #macro END				2
+#macro VAR				3
 
 // Litteral
 #macro TRUE				0
 #macro FALSE			1
-#macro INTERGER			2
-#macro STRING			3
