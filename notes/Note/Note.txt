@@ -1,4 +1,10 @@
-Reserved Keywords
+Lexical Analysis
 
-PRINT
-IF
+Order of Operations
+
+1.	Comments
+2.	Operators
+3.	Separators
+4.	Keywords
+5.	Literals
+6.	Identifiers
