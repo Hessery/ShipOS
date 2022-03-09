@@ -1,3 +1,5 @@
+// Prints text to the log
+
 function sys_print(line, scope_level) {
 	
 	switch (line[1][0]) {

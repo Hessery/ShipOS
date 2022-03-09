@@ -7,11 +7,34 @@ function line_evaluate(str, scope_level) {
 	if (line[0][0] = comment) { return }
 	
 	// -- Evaluation --
-	switch (line[0][1]) {
+	if (line[0][0] = keyword) {
 		
-		case IF:		break;
-		case END:		break;
-		case ELSE:		break;
+		switch (line[0][1]) {
+			
+			case IF:	
+				
+				var equation = [];
+				
+				array_copy(equation, 0, line, 1, array_length(line));
+				
+				log(equation_evaluate(equation, true));
+				
+				return true	
+				
+			break;
+			
+			case END:	log("IF");	return true	break;
+			case ELSE:	log("IF");	return true	break;
+			
+		}
+		
+	}
+	
+	if (line[0][0] = literal) {
+		
+		var output = equation_evaluate(line, false);
+		log(output[1]);
+		return
 		
 	}
 	

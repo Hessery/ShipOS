@@ -8,7 +8,7 @@ function cmd_evaluate(line, scope_level) {
 		
 		for (var i = 1; i < array_length(line); i ++) {
 			
-			var arg = [ "arg" + string(i - 1), line[i][0], line[i][1] ];
+			var arg = [ "ARG" + string(i - 1), line[i][0], line[i][1] ];
 			array_push(scope[scope_level + 1], arg);
 			
 		}

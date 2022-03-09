@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Commands",
-    "path": "folders/Functions/System/Commands.yy",
+    "name": "Console",
+    "path": "folders/Functions/Console.yy",
   },
   "resourceVersion": "1.0",
-  "name": "sys_var",
+  "name": "console_evaluate",
   "tags": [],
   "resourceType": "GMScript",
 }

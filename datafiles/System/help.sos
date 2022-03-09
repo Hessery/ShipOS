@@ -1,3 +1,8 @@
+var car = 10
+memory
+print car
+print arg0
+print ""
 print "startup  runs on startup"
 print "clear    clears the screen"
 print "help     shows commands"

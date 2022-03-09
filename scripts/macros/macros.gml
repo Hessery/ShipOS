@@ -23,10 +23,6 @@
 #macro subtract			2
 #macro divide			3
 #macro multiply			4
-#macro rel_add			5
-#macro rel_subtract		6
-#macro rel_divide		7
-#macro rel_multiply		8
 
 // Separators
 #macro l_parenth		0
@@ -43,5 +39,5 @@
 #macro VAR				3
 
 // Litteral
-#macro TRUE				0
-#macro FALSE			1
+#macro TRUE				1
+#macro FALSE			0

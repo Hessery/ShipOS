@@ -1,3 +1,5 @@
+// errors and traces error
+
 function trace(str) {
 	
 	error = true;

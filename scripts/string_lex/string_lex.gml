@@ -9,7 +9,7 @@ function string_lex(str, scope_level) {
 	
 	for (var i = 0; i < token_count; i ++) {
 		
-		// Comments
+		// -- Comments --
 		if (string_copy(line[i], 0, 2) = "//") {
 			
 			out[i - s] = [comment];
@@ -17,7 +17,7 @@ function string_lex(str, scope_level) {
 		
 		}
 		
-		// Operators
+		// -- Operators --
 		if (line[i] = "=")	{ out[i - s] = [operator, equals]; continue }
 		if (line[i] = "+")	{ out[i - s] = [operator, add]; continue }
 		if (line[i] = "-")	{ out[i - s] = [operator, subtract]; continue }
@@ -29,7 +29,7 @@ function string_lex(str, scope_level) {
 		if (line[i] = "*=")	{ out[i - s] = [operator, rel_multiply]; continue }
 		
 		
-		// Separator
+		// -- Separator --
 		if (line[i] = "(")	{ out[i - s] = [separator, l_parenth]; continue }
 		if (line[i] = ")")	{ out[i - s] = [separator, r_parenth]; continue }
 		if (line[i] = "{")	{ out[i - s] = [separator, l_c_bracket]; continue }
@@ -38,14 +38,14 @@ function string_lex(str, scope_level) {
 		if (line[i] = "]")	{ out[i - s] = [separator, r_bracket]; continue }
 		
 		
-		// Keywords
+		// -- Keywords --
 		if (line[i] = "IF")		{ out[i - s] = [keyword, IF]; continue }
 		if (line[i] = "ELSE")	{ out[i - s] = [keyword, ELSE]; continue }
 		if (line[i] = "END")	{ out[i - s] = [keyword, END]; continue }
 		if (line[i] = "VAR")	{ out[i - s] = [keyword, VAR]; continue }
 		
 		
-		// Literals
+		// -- Literals --
 		if (line[i] = "TRUE")	{ out[i - s] = [literal, TRUE]; continue }
 		if (line[i] = "FALSE")	{ out[i - s] = [literal, FALSE]; continue }
 		if (string_letters(line[i]) = "" && string_digits(line[i]) != "") {
@@ -78,9 +78,9 @@ function string_lex(str, scope_level) {
 			
 		}
 		
-		// Identifiers
+		// -- Identifiers --
 		// Variables
-		
+		var found = false
 		// local
 		for (var o = 0; o < array_length(scope[scope_level]); o ++) {
 			
@@ -89,12 +89,15 @@ function string_lex(str, scope_level) {
 				var token_type = scope[scope_level][o][1];
 				var token_value	= scope[scope_level][o][2];
 				
-				line[i - s] = [ token_type, token_value ];
-				continue
+				out[i - s] = [ token_type, token_value ];
+				found = true;
+				break
 				
 			}
 			
 		}
+		
+		if (found) { continue }
 		
 		// Global
 		for (var o = 0; o < array_length(scope[system_scope]); o ++) {
@@ -104,12 +107,15 @@ function string_lex(str, scope_level) {
 				var token_type = scope[system_scope][o][1];
 				var token_value	= scope[system_scope][o][2];
 				
-				line[i - s] = [ token_type, token_value ];
+				out[i - s] = [ token_type, token_value ];
+				found = true;
 				continue
 				
 			}
 			
 		}
+		
+		if (found) { continue }
 		
 		// Func
 		var list = ds_map_keys_to_array(func_map);

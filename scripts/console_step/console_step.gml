@@ -1,3 +1,5 @@
+// What the console runs
+
 function console_step() {
 	
 	keyboard_string = string_upper(keyboard_string);
@@ -6,7 +8,7 @@ function console_step() {
 
 	if (keyboard_check_pressed(vk_enter)) {
 	
-		func_evaluate();
+		console_evaluate();
 		keyboard_string = ""
 	
 	};

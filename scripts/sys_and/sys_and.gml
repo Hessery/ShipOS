@@ -1,3 +1,0 @@
-function sys_and(){
-
-}
