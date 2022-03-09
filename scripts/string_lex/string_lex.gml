@@ -1,5 +1,7 @@
 function string_lex(str, scope_level) {
 	
+	if (str = "") { return [[comment]] }
+	
 	str = string_upper(str);
 	
 	var line = explode(str, " ");
@@ -23,10 +25,6 @@ function string_lex(str, scope_level) {
 		if (line[i] = "-")	{ out[i - s] = [operator, subtract]; continue }
 		if (line[i] = "/")	{ out[i - s] = [operator, divide]; continue }
 		if (line[i] = "*")	{ out[i - s] = [operator, multiply]; continue }
-		if (line[i] = "+=")	{ out[i - s] = [operator, rel_add]; continue }
-		if (line[i] = "-=")	{ out[i - s] = [operator, rel_subtract]; continue }
-		if (line[i] = "/=")	{ out[i - s] = [operator, rel_divide]; continue }
-		if (line[i] = "*=")	{ out[i - s] = [operator, rel_multiply]; continue }
 		
 		
 		// -- Separator --

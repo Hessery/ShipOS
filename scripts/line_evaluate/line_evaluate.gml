@@ -3,6 +3,20 @@ function line_evaluate(str, scope_level) {
 	// Tokenizes the input string
 	var line = string_lex(str, scope_level);
 	
+	// Skip lines with if_depth
+	if (if_depth[scope_level] > 0) {
+		
+		if (line[0][0] = keyword) {
+			
+			if (line[0][1] = IF)	{ if_depth[scope_level] ++ }
+			if (line[0][1] = END)	{ if_depth[scope_level] -- }
+			
+		}
+		
+		if (if_depth[scope_level] > 0) { return }
+		
+	}
+	
 	// -- Comment --
 	if (line[0][0] = comment) { return }
 	
@@ -17,14 +31,18 @@ function line_evaluate(str, scope_level) {
 				
 				array_copy(equation, 0, line, 1, array_length(line));
 				
-				log(equation_evaluate(equation, true));
+				if!(equation_evaluate(equation, true)[1]) {
+					
+					if_depth[scope_level] = 1;
+					
+				}
 				
-				return true	
+				return true
 				
 			break;
 			
-			case END:	log("IF");	return true	break;
-			case ELSE:	log("IF");	return true	break;
+			case END:	return true	break;
+			case ELSE:	return true	break;
 			
 		}
 		
@@ -33,8 +51,7 @@ function line_evaluate(str, scope_level) {
 	if (line[0][0] = literal) {
 		
 		var output = equation_evaluate(line, false);
-		log(output[1]);
-		return
+		return output[1];
 		
 	}
 	

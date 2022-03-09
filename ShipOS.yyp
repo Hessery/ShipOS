@@ -72,8 +72,8 @@
   "IncludedFiles": [
     {"CopyToMask":3035461389054378222,"filePath":"datafiles/System","resourceVersion":"1.0","name":"help.sos","resourceType":"GMIncludedFile",},
     {"CopyToMask":-1,"filePath":"datafiles/System","resourceVersion":"1.0","name":"clear.sos","resourceType":"GMIncludedFile",},
-    {"CopyToMask":3035461389054378222,"filePath":"datafiles/User","resourceVersion":"1.0","name":"test.sos","resourceType":"GMIncludedFile",},
-    {"CopyToMask":-1,"filePath":"datafiles/System","resourceVersion":"1.0","name":"startup.sos","resourceType":"GMIncludedFile",},
+    {"CopyToMask":3035461389054378222,"filePath":"datafiles/System","resourceVersion":"1.0","name":"startup.sos","resourceType":"GMIncludedFile",},
+    {"CopyToMask":-1,"filePath":"datafiles/User","resourceVersion":"1.0","name":"iftest.sos","resourceType":"GMIncludedFile",},
   ],
   "MetaData": {
     "IDEVersion": "2022.2.0.614",

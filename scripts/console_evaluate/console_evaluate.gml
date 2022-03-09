@@ -5,7 +5,9 @@ function console_evaluate() {
 	log(">" + keyboard_string)
 	
 	error = false;
-	line_evaluate(keyboard_string, system_scope);
+	var ret = line_evaluate(keyboard_string, system_scope);
+	if (ret != undefined) { log(ret) }
+	if_depth = [0];
 	
 	console_evaluate_error();
 	

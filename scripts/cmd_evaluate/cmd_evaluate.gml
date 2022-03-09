@@ -14,6 +14,7 @@ function cmd_evaluate(line, scope_level) {
 		}
 		
 		var func_array = ds_map_values_to_array(func_map);
+		if_depth[scope_level + 1] = 0;
 		file_run(func_array[line[0][1]], scope_level + 1);
 		
 		return true

@@ -1,8 +1,15 @@
-var car = 10
-memory
-print car
-print arg0
-print ""
-print "startup  runs on startup"
-print "clear    clears the screen"
-print "help     shows commands"
+if arg0 = 0
+print "help 0  help contents"
+print "help 1  command help"
+print "help 2  other"
+end
+
+if arg0 = 1
+print "memory  dumps memory to console"
+print "print   prints a value to console"
+print "reboot  reboots the system"
+end
+
+if arg0 = 2
+print "spoopy crapple"
+end

@@ -1,6 +1,7 @@
 function memory_init() {
 	
-	scope = [[]]
+	scope = [[]];
+	if_depth = [0];
 	trace_str = "";
 	error = false;
 	
