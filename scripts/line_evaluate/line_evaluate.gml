@@ -3,9 +3,10 @@ function line_evaluate(str, scope_level) {
 	// Tokenizes the input string
 	var line = string_lex(str, scope_level);
 	
-	//log(line);
+	// -- Comment --
+	if (line[0][0] = comment) { return }
 	
-	// Evaluation
+	// -- Evaluation --
 	switch (line[0][1]) {
 		
 		case IF:		break;
@@ -14,7 +15,8 @@ function line_evaluate(str, scope_level) {
 		
 	}
 	
-	// Assignment
+	// -- Assignment --
+	// Creation
 	if (
 		array_length(line) = 4 &&
 		line[0][1] = VAR &&
@@ -39,13 +41,16 @@ function line_evaluate(str, scope_level) {
 		
 	}
 	
-	// Function
+	
+	// Assign
+	
+	
+	// -- Function --
 	if (cmd_evaluate(line, scope_level)) { return };
 	
+	if (error) { trace("line eval"); return false }
 	
 	// Error
 	log("err: " + str);
-	
-	
 	
 }

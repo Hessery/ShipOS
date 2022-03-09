@@ -1,23 +1,24 @@
-print 
-print  Shipos 0.1
-print  (c) 2022 Hot nenjine
-print  
-print   type help for help
-print 
-print 
-print 
-print 
-print 
-print 
-print 
-print 
-print 
-print 
-print 
-print 
-print 
-print 
-print 
-print 
-print 
-print 
+clear
+print ""
+print " Shipos 0.1"
+print " (c) 2022 Hot nenjine"
+print ""
+print "  type help for help"
+print ""
+print ""
+print ""
+print ""
+print ""
+print ""
+print ""
+print ""
+print ""
+print ""
+print ""
+print ""
+print ""
+print ""
+print ""
+print ""
+print ""
+print ""

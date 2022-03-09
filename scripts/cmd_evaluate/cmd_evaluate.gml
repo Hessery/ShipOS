@@ -1,15 +1,27 @@
 function cmd_evaluate(line, scope_level) {
 	
-	if (ds_map_exists(func_map, line[0][1])) {
+	if (sys_command_evaluate(line, scope_level)) { return true }
+	
+	if (is_real(line[0][1]) && line[0][0] = identifier) {
 		
-		return file_run(func_map[? line[0][1]], scope_level);
+		scope[scope_level + 1] = [];
 		
-	} else {
+		for (var i = 1; i < array_length(line); i ++) {
+			
+			var arg = [ "arg" + string(i - 1), line[i][0], line[i][1] ];
+			array_push(scope[scope_level + 1], arg);
+			
+		}
 		
-		return sys_command_evaluate(line, scope_level);
+		var func_array = ds_map_values_to_array(func_map);
+		file_run(func_array[line[0][1]], scope_level + 1);
+		
+		return true
 		
 	}
 	
-	return -1
+	if (error) { trace("cmd eval"); return false }
+	
+	return false
 	
 }

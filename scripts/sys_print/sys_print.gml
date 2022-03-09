@@ -12,12 +12,19 @@ function sys_print(line, scope_level) {
 		
 		case identifier:	
 			
+			if (!is_array(line[1][1])) { 
+				
+				trace("print");
+				return false 
+			
+			}
+			
 			log(line[1][1][1]);
 			
 			return true	
 			
 		break;
-		
+	
 	}
 	
 	return false

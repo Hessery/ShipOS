@@ -54,37 +54,55 @@ function string_lex(str, scope_level) {
 			continue
 			
 		}
+		
 		if (string_char_at(line[i], 1) = "\"") {
 			
-			var out_string = ""
+			var pos = 1
 			
-			while (string_char_at(line[i], string_length(line[i])) != "\"") {
+			for (var o = 0; o < i; o ++) {
 				
-				out_string += line[i] + " ";
-				i ++
-				s ++
+				pos += string_length(line[o]) + 1
 				
 			}
 			
-			out_string += line[i];
-			out_string = string_copy(
-				out_string, 
-				2,
-				string_length(out_string) - 2
-			)
+			var len = string_pos_ext("\"", str, pos + 2) - pos;
+			
+			var out_string = string_copy(str, pos + 1, len - 1);
+			
+			i += string_count(" ", out_string);
+			s += string_count(" ", out_string);
+			
 			out[i - s] = [literal, out_string];
+			
 			continue
 			
 		}
 		
 		// Identifiers
 		// Variables
+		
+		// local
 		for (var o = 0; o < array_length(scope[scope_level]); o ++) {
 			
 			if (scope[scope_level][o][0] = line[i]) {
 				
 				var token_type = scope[scope_level][o][1];
 				var token_value	= scope[scope_level][o][2];
+				
+				line[i - s] = [ token_type, token_value ];
+				continue
+				
+			}
+			
+		}
+		
+		// Global
+		for (var o = 0; o < array_length(scope[system_scope]); o ++) {
+			
+			if (scope[system_scope][o][0] = line[i]) {
+				
+				var token_type = scope[system_scope][o][1];
+				var token_value	= scope[system_scope][o][2];
 				
 				line[i - s] = [ token_type, token_value ];
 				continue
