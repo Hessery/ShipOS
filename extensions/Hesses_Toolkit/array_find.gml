@@ -2,7 +2,7 @@
 var array = argument0
 var value = argument1
 
-if (!is_array(array)) { return }
+if (!is_array(array)) { return -1 }
 var length = array_length(array);
 
 for (var i = 0; i < length; i ++) {
@@ -11,4 +11,4 @@ for (var i = 0; i < length; i ++) {
     
 }
 
-return false
+return -1

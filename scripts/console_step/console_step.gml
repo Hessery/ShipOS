@@ -6,7 +6,7 @@ function console_step() {
 
 	if (keyboard_check_pressed(vk_enter)) {
 	
-		cmd_evaluate();
+		func_evaluate();
 		keyboard_string = ""
 	
 	};

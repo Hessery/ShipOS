@@ -1,0 +1,854 @@
+You are using YYP Maker v1.1.2, released in 11-04-2021
+
+
+
+[08-03-2022 18:31:18] Initialized GameMaker Project: ShipOS.yyp
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/animcurves
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/datafiles
+[08-03-2022 18:31:18] Checking User
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/datafiles/User
+[08-03-2022 18:31:18] Checking System
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/datafiles/System
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/datafiles/System
+[08-03-2022 18:31:18] Checking startup.sos
+[08-03-2022 18:31:18] Checking help.sos
+[08-03-2022 18:31:18] Checking clear.sos
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/datafiles/User
+[08-03-2022 18:31:18] Checking test.sos
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/extensions
+[08-03-2022 18:31:18] Checking Hesses_Toolkit
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/extensions/Hesses_Toolkit
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/extensions/Hesses_Toolkit
+[08-03-2022 18:31:18] Checking Hesses_Toolkit.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/extensions/Hesses_Toolkit/Hesses_Toolkit.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/extensions/Hesses_Toolkit/Hesses_Toolkit.yy
+[08-03-2022 18:31:18] Par: "folders/Extensions/Hesses Toolkit" at dir: "D:/Git/ShipOS/extensions/Hesses_Toolkit/Hesses_Toolkit.yy"
+[08-03-2022 18:31:18] Found Extension: Hesses_Toolkit
+[08-03-2022 18:31:18] Checking explode.gml
+[08-03-2022 18:31:18] Checking ds_map_find_key.gml
+[08-03-2022 18:31:18] Checking draw_set.gml
+[08-03-2022 18:31:18] Checking draw_rectangle_width.gml
+[08-03-2022 18:31:18] Checking array_find.gml
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/fonts
+[08-03-2022 18:31:18] Checking fnt_default
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/fonts/fnt_default
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/fonts/fnt_default
+[08-03-2022 18:31:18] Checking fnt_default.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/fonts/fnt_default/fnt_default.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/fonts/fnt_default/fnt_default.yy
+[08-03-2022 18:31:18] ROOT found, not added.
+[08-03-2022 18:31:18] Par: "folders" at dir: "D:/Git/ShipOS/fonts/fnt_default/fnt_default.yy"
+[08-03-2022 18:31:18] Found Font: fnt_default
+[08-03-2022 18:31:18] Checking fnt_default.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/notes
+[08-03-2022 18:31:18] Checking Note
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/notes/Note
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/notes/Note
+[08-03-2022 18:31:18] Checking Note.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/notes/Note/Note.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/notes/Note/Note.yy
+[08-03-2022 18:31:18] ROOT found, not added.
+[08-03-2022 18:31:18] Par: "folders" at dir: "D:/Git/ShipOS/notes/Note/Note.yy"
+[08-03-2022 18:31:18] Found Note: Note
+[08-03-2022 18:31:18] Checking Note.txt
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/objects
+[08-03-2022 18:31:18] Checking obj_control
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/objects/obj_control
+[08-03-2022 18:31:18] Checking Hesses_control
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/objects/Hesses_control
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/objects/Hesses_control
+[08-03-2022 18:31:18] Checking Step_0.gml
+[08-03-2022 18:31:18] Checking Hesses_control.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/objects/Hesses_control/Hesses_control.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/objects/Hesses_control/Hesses_control.yy
+[08-03-2022 18:31:18] Par: "folders/Extensions/Hesses Toolkit" at dir: "D:/Git/ShipOS/objects/Hesses_control/Hesses_control.yy"
+[08-03-2022 18:31:18] Found Object: Hesses_control
+[08-03-2022 18:31:18] Checking Draw_73.gml
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/objects/obj_control
+[08-03-2022 18:31:18] Checking Step_0.gml
+[08-03-2022 18:31:18] Checking obj_control.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/objects/obj_control/obj_control.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/objects/obj_control/obj_control.yy
+[08-03-2022 18:31:18] ROOT found, not added.
+[08-03-2022 18:31:18] Par: "folders" at dir: "D:/Git/ShipOS/objects/obj_control/obj_control.yy"
+[08-03-2022 18:31:18] Found Object: obj_control
+[08-03-2022 18:31:18] Checking Draw_0.gml
+[08-03-2022 18:31:18] Checking Create_0.gml
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/options
+[08-03-2022 18:31:18] Checking windows
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/options/windows
+[08-03-2022 18:31:18] Checking tvos
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/options/tvos
+[08-03-2022 18:31:18] Checking operagx
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/options/operagx
+[08-03-2022 18:31:18] Checking main
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/options/main
+[08-03-2022 18:31:18] Checking mac
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/options/mac
+[08-03-2022 18:31:18] Checking linux
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/options/linux
+[08-03-2022 18:31:18] Checking ios
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/options/ios
+[08-03-2022 18:31:18] Checking html5
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/options/html5
+[08-03-2022 18:31:18] Checking android
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/options/android
+[08-03-2022 18:31:18] Checking amazonfire
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/options/amazonfire
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/options/amazonfire
+[08-03-2022 18:31:18] Checking options_amazonfire.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/options/amazonfire/options_amazonfire.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/options/amazonfire/options_amazonfire.yy
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/options/android
+[08-03-2022 18:31:18] Checking options_android.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/options/android/options_android.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/options/android/options_android.yy
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/options/html5
+[08-03-2022 18:31:18] Checking options_html5.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/options/html5/options_html5.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/options/html5/options_html5.yy
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/options/ios
+[08-03-2022 18:31:18] Checking options_ios.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/options/ios/options_ios.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/options/ios/options_ios.yy
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/options/linux
+[08-03-2022 18:31:18] Checking options_linux.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/options/linux/options_linux.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/options/linux/options_linux.yy
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/options/mac
+[08-03-2022 18:31:18] Checking options_mac.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/options/mac/options_mac.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/options/mac/options_mac.yy
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/options/main
+[08-03-2022 18:31:18] Checking options_main.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/options/main/options_main.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/options/main/options_main.yy
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/options/operagx
+[08-03-2022 18:31:18] Checking options_operagx.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/options/operagx/options_operagx.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/options/operagx/options_operagx.yy
+[08-03-2022 18:31:18] Invalid file: options_operagx.yy, will be moved to ___yyp_maker_trash
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/options/tvos
+[08-03-2022 18:31:18] Checking options_tvos.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/options/tvos/options_tvos.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/options/tvos/options_tvos.yy
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/options/windows
+[08-03-2022 18:31:18] Checking options_windows.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/options/windows/options_windows.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/options/windows/options_windows.yy
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/paths
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/rooms
+[08-03-2022 18:31:18] Checking rm_game
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/rooms/rm_game
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/rooms/rm_game
+[08-03-2022 18:31:18] Checking rm_game.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/rooms/rm_game/rm_game.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/rooms/rm_game/rm_game.yy
+[08-03-2022 18:31:18] ROOT found, not added.
+[08-03-2022 18:31:18] Par: "folders" at dir: "D:/Git/ShipOS/rooms/rm_game/rm_game.yy"
+[08-03-2022 18:31:18] Found Room: rm_game
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/scripts
+[08-03-2022 18:31:18] Checking sys_var
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/scripts/sys_var
+[08-03-2022 18:31:18] Checking sys_reboot
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/scripts/sys_reboot
+[08-03-2022 18:31:18] Checking sys_print
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/scripts/sys_print
+[08-03-2022 18:31:18] Checking sys_or
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/scripts/sys_or
+[08-03-2022 18:31:18] Checking sys_if
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/scripts/sys_if
+[08-03-2022 18:31:18] Checking sys_end
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/scripts/sys_end
+[08-03-2022 18:31:18] Checking sys_else
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/scripts/sys_else
+[08-03-2022 18:31:18] Checking sys_command_evaluate
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/scripts/sys_command_evaluate
+[08-03-2022 18:31:18] Checking sys_and
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/scripts/sys_and
+[08-03-2022 18:31:18] Checking system_init
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/scripts/system_init
+[08-03-2022 18:31:18] Checking string_lex
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/scripts/string_lex
+[08-03-2022 18:31:18] Checking screen_init
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/scripts/screen_init
+[08-03-2022 18:31:18] Checking screen_draw
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/scripts/screen_draw
+[08-03-2022 18:31:18] Checking macros
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/scripts/macros
+[08-03-2022 18:31:18] Checking log
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/scripts/log
+[08-03-2022 18:31:18] Checking input_limit
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/scripts/input_limit
+[08-03-2022 18:31:18] Checking func_evaluate
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/scripts/func_evaluate
+[08-03-2022 18:31:18] Checking file_run
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/scripts/file_run
+[08-03-2022 18:31:18] Checking file_find_in
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/scripts/file_find_in
+[08-03-2022 18:31:18] Checking equation_evaluate
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/scripts/equation_evaluate
+[08-03-2022 18:31:18] Checking console_step
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/scripts/console_step
+[08-03-2022 18:31:18] Checking console_init
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/scripts/console_init
+[08-03-2022 18:31:18] Checking cmd_init
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/scripts/cmd_init
+[08-03-2022 18:31:18] Checking cmd_evaluate
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/scripts/cmd_evaluate
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/scripts/cmd_evaluate
+[08-03-2022 18:31:18] Checking cmd_evaluate.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/scripts/cmd_evaluate/cmd_evaluate.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/scripts/cmd_evaluate/cmd_evaluate.yy
+[08-03-2022 18:31:18] Par: "folders/Functions/Console" at dir: "D:/Git/ShipOS/scripts/cmd_evaluate/cmd_evaluate.yy"
+[08-03-2022 18:31:18] Found Script: cmd_evaluate
+[08-03-2022 18:31:18] Checking cmd_evaluate.gml
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/scripts/cmd_init
+[08-03-2022 18:31:18] Checking cmd_init.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/scripts/cmd_init/cmd_init.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/scripts/cmd_init/cmd_init.yy
+[08-03-2022 18:31:18] Par: "folders/Functions/System/Init" at dir: "D:/Git/ShipOS/scripts/cmd_init/cmd_init.yy"
+[08-03-2022 18:31:18] Found Script: cmd_init
+[08-03-2022 18:31:18] Checking cmd_init.gml
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/scripts/console_init
+[08-03-2022 18:31:18] Checking console_init.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/scripts/console_init/console_init.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/scripts/console_init/console_init.yy
+[08-03-2022 18:31:18] Par: "folders/Functions/System/Init" at dir: "D:/Git/ShipOS/scripts/console_init/console_init.yy"
+[08-03-2022 18:31:18] Found Script: console_init
+[08-03-2022 18:31:18] Checking console_init.gml
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/scripts/console_step
+[08-03-2022 18:31:18] Checking console_step.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/scripts/console_step/console_step.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/scripts/console_step/console_step.yy
+[08-03-2022 18:31:18] Par: "folders/Functions/Console" at dir: "D:/Git/ShipOS/scripts/console_step/console_step.yy"
+[08-03-2022 18:31:18] Found Script: console_step
+[08-03-2022 18:31:18] Checking console_step.gml
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/scripts/equation_evaluate
+[08-03-2022 18:31:18] Checking equation_evaluate.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/scripts/equation_evaluate/equation_evaluate.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/scripts/equation_evaluate/equation_evaluate.yy
+[08-03-2022 18:31:18] Par: "folders/Functions" at dir: "D:/Git/ShipOS/scripts/equation_evaluate/equation_evaluate.yy"
+[08-03-2022 18:31:18] Found Script: equation_evaluate
+[08-03-2022 18:31:18] Checking equation_evaluate.gml
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/scripts/file_find_in
+[08-03-2022 18:31:18] Checking file_find_in.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/scripts/file_find_in/file_find_in.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/scripts/file_find_in/file_find_in.yy
+[08-03-2022 18:31:18] Par: "folders/Functions" at dir: "D:/Git/ShipOS/scripts/file_find_in/file_find_in.yy"
+[08-03-2022 18:31:18] Found Script: file_find_in
+[08-03-2022 18:31:18] Checking file_find_in.gml
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/scripts/file_run
+[08-03-2022 18:31:18] Checking file_run.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/scripts/file_run/file_run.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/scripts/file_run/file_run.yy
+[08-03-2022 18:31:18] Par: "folders/Functions" at dir: "D:/Git/ShipOS/scripts/file_run/file_run.yy"
+[08-03-2022 18:31:18] Found Script: file_run
+[08-03-2022 18:31:18] Checking file_run.gml
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/scripts/func_evaluate
+[08-03-2022 18:31:18] Checking func_evaluate.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/scripts/func_evaluate/func_evaluate.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/scripts/func_evaluate/func_evaluate.yy
+[08-03-2022 18:31:18] Par: "folders/Functions" at dir: "D:/Git/ShipOS/scripts/func_evaluate/func_evaluate.yy"
+[08-03-2022 18:31:18] Found Script: func_evaluate
+[08-03-2022 18:31:18] Checking func_evaluate.gml
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/scripts/input_limit
+[08-03-2022 18:31:18] Checking input_limit.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/scripts/input_limit/input_limit.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/scripts/input_limit/input_limit.yy
+[08-03-2022 18:31:18] Par: "folders/Functions" at dir: "D:/Git/ShipOS/scripts/input_limit/input_limit.yy"
+[08-03-2022 18:31:18] Found Script: input_limit
+[08-03-2022 18:31:18] Checking input_limit.gml
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/scripts/log
+[08-03-2022 18:31:18] Checking log.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/scripts/log/log.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/scripts/log/log.yy
+[08-03-2022 18:31:18] Par: "folders/Functions" at dir: "D:/Git/ShipOS/scripts/log/log.yy"
+[08-03-2022 18:31:18] Found Script: log
+[08-03-2022 18:31:18] Checking log.gml
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/scripts/macros
+[08-03-2022 18:31:18] Checking macros.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/scripts/macros/macros.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/scripts/macros/macros.yy
+[08-03-2022 18:31:18] ROOT found, not added.
+[08-03-2022 18:31:18] Par: "folders" at dir: "D:/Git/ShipOS/scripts/macros/macros.yy"
+[08-03-2022 18:31:18] Found Script: macros
+[08-03-2022 18:31:18] Checking macros.gml
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/scripts/screen_draw
+[08-03-2022 18:31:18] Checking screen_draw.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/scripts/screen_draw/screen_draw.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/scripts/screen_draw/screen_draw.yy
+[08-03-2022 18:31:18] Par: "folders/Functions" at dir: "D:/Git/ShipOS/scripts/screen_draw/screen_draw.yy"
+[08-03-2022 18:31:18] Found Script: screen_draw
+[08-03-2022 18:31:18] Checking screen_draw.gml
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/scripts/screen_init
+[08-03-2022 18:31:18] Checking screen_init.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/scripts/screen_init/screen_init.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/scripts/screen_init/screen_init.yy
+[08-03-2022 18:31:18] Par: "folders/Functions/System/Init" at dir: "D:/Git/ShipOS/scripts/screen_init/screen_init.yy"
+[08-03-2022 18:31:18] Found Script: screen_init
+[08-03-2022 18:31:18] Checking screen_init.gml
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/scripts/string_lex
+[08-03-2022 18:31:18] Checking string_lex.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/scripts/string_lex/string_lex.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/scripts/string_lex/string_lex.yy
+[08-03-2022 18:31:18] Par: "folders/Functions" at dir: "D:/Git/ShipOS/scripts/string_lex/string_lex.yy"
+[08-03-2022 18:31:18] Found Script: string_lex
+[08-03-2022 18:31:18] Checking string_lex.gml
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/scripts/system_init
+[08-03-2022 18:31:18] Checking system_init.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/scripts/system_init/system_init.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/scripts/system_init/system_init.yy
+[08-03-2022 18:31:18] Par: "folders/Functions/System/Init" at dir: "D:/Git/ShipOS/scripts/system_init/system_init.yy"
+[08-03-2022 18:31:18] Found Script: system_init
+[08-03-2022 18:31:18] Checking system_init.gml
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/scripts/sys_and
+[08-03-2022 18:31:18] Checking sys_and.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/scripts/sys_and/sys_and.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/scripts/sys_and/sys_and.yy
+[08-03-2022 18:31:18] Par: "folders/Functions/System/Commands" at dir: "D:/Git/ShipOS/scripts/sys_and/sys_and.yy"
+[08-03-2022 18:31:18] Found Script: sys_and
+[08-03-2022 18:31:18] Checking sys_and.gml
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/scripts/sys_command_evaluate
+[08-03-2022 18:31:18] Checking sys_command_evaluate.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/scripts/sys_command_evaluate/sys_command_evaluate.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/scripts/sys_command_evaluate/sys_command_evaluate.yy
+[08-03-2022 18:31:18] Par: "folders/Functions/System" at dir: "D:/Git/ShipOS/scripts/sys_command_evaluate/sys_command_evaluate.yy"
+[08-03-2022 18:31:18] Found Script: sys_command_evaluate
+[08-03-2022 18:31:18] Checking sys_command_evaluate.gml
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/scripts/sys_else
+[08-03-2022 18:31:18] Checking sys_else.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/scripts/sys_else/sys_else.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/scripts/sys_else/sys_else.yy
+[08-03-2022 18:31:18] Par: "folders/Functions/System/Commands" at dir: "D:/Git/ShipOS/scripts/sys_else/sys_else.yy"
+[08-03-2022 18:31:18] Found Script: sys_else
+[08-03-2022 18:31:18] Checking sys_else.gml
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/scripts/sys_end
+[08-03-2022 18:31:18] Checking sys_end.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/scripts/sys_end/sys_end.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/scripts/sys_end/sys_end.yy
+[08-03-2022 18:31:18] Par: "folders/Functions/System/Commands" at dir: "D:/Git/ShipOS/scripts/sys_end/sys_end.yy"
+[08-03-2022 18:31:18] Found Script: sys_end
+[08-03-2022 18:31:18] Checking sys_end.gml
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/scripts/sys_if
+[08-03-2022 18:31:18] Checking sys_if.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/scripts/sys_if/sys_if.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/scripts/sys_if/sys_if.yy
+[08-03-2022 18:31:18] Par: "folders/Functions/System/Commands" at dir: "D:/Git/ShipOS/scripts/sys_if/sys_if.yy"
+[08-03-2022 18:31:18] Found Script: sys_if
+[08-03-2022 18:31:18] Checking sys_if.gml
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/scripts/sys_or
+[08-03-2022 18:31:18] Checking sys_or.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/scripts/sys_or/sys_or.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/scripts/sys_or/sys_or.yy
+[08-03-2022 18:31:18] Par: "folders/Functions/System/Commands" at dir: "D:/Git/ShipOS/scripts/sys_or/sys_or.yy"
+[08-03-2022 18:31:18] Found Script: sys_or
+[08-03-2022 18:31:18] Checking sys_or.gml
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/scripts/sys_print
+[08-03-2022 18:31:18] Checking sys_print.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/scripts/sys_print/sys_print.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/scripts/sys_print/sys_print.yy
+[08-03-2022 18:31:18] Par: "folders/Functions/System/Commands" at dir: "D:/Git/ShipOS/scripts/sys_print/sys_print.yy"
+[08-03-2022 18:31:18] Found Script: sys_print
+[08-03-2022 18:31:18] Checking sys_print.gml
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/scripts/sys_reboot
+[08-03-2022 18:31:18] Checking sys_reboot.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/scripts/sys_reboot/sys_reboot.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/scripts/sys_reboot/sys_reboot.yy
+[08-03-2022 18:31:18] Par: "folders/Functions/System/Commands" at dir: "D:/Git/ShipOS/scripts/sys_reboot/sys_reboot.yy"
+[08-03-2022 18:31:18] Found Script: sys_reboot
+[08-03-2022 18:31:18] Checking sys_reboot.gml
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/scripts/sys_var
+[08-03-2022 18:31:18] Checking sys_var.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/scripts/sys_var/sys_var.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/scripts/sys_var/sys_var.yy
+[08-03-2022 18:31:18] Par: "folders/Functions/System/Commands" at dir: "D:/Git/ShipOS/scripts/sys_var/sys_var.yy"
+[08-03-2022 18:31:18] Found Script: sys_var
+[08-03-2022 18:31:18] Checking sys_var.gml
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sequences
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/shaders
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sounds
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites
+[08-03-2022 18:31:18] Checking spr_fnt_default
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default
+[08-03-2022 18:31:18] Checking spr_fnt_default.yy
+[08-03-2022 18:31:18] Parsing D:/Git/ShipOS/sprites/spr_fnt_default/spr_fnt_default.yy
+[08-03-2022 18:31:18] Reading D:/Git/ShipOS/sprites/spr_fnt_default/spr_fnt_default.yy
+[08-03-2022 18:31:18] ROOT found, not added.
+[08-03-2022 18:31:18] Par: "folders" at dir: "D:/Git/ShipOS/sprites/spr_fnt_default/spr_fnt_default.yy"
+[08-03-2022 18:31:18] Found Sprite: spr_fnt_default
+[08-03-2022 18:31:18] Checking layers
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers
+[08-03-2022 18:31:18] Checking fa2c7685-1cb0-4f26-b775-2c65625d61c9.png
+[08-03-2022 18:31:18] Checking f80cabd1-1668-4d9b-a5d5-3bc9d68a2c59.png
+[08-03-2022 18:31:18] Checking f773dadf-907e-49f8-8d30-53beb5b17a8f.png
+[08-03-2022 18:31:18] Checking f69f0973-6ee4-46bf-ba8f-98e90875eb95.png
+[08-03-2022 18:31:18] Checking ed159340-6d09-41a5-91a4-457288d054cf.png
+[08-03-2022 18:31:18] Checking ecfd9462-3281-4937-86b8-8295c17ba4ea.png
+[08-03-2022 18:31:18] Checking ebd1f2ff-043f-45c1-a77b-52b080001003.png
+[08-03-2022 18:31:18] Checking eb81f946-f8c9-4a66-9c25-d57d246c25a3.png
+[08-03-2022 18:31:18] Checking e499cff6-8682-4211-99e8-d8f4383e8dba.png
+[08-03-2022 18:31:18] Checking e241bafb-ebdd-40ed-9986-2abfbdf7364a.png
+[08-03-2022 18:31:18] Checking e05c9c47-0b42-45d8-96ad-4b19d07a1170.png
+[08-03-2022 18:31:18] Checking db875bf3-95e0-4302-acf9-ee9ce7d3f01c.png
+[08-03-2022 18:31:18] Checking d91ce5b3-dcbb-43d6-84ec-8cc2123f3073.png
+[08-03-2022 18:31:18] Checking ce04648d-1b9f-4917-b24a-bcc2685586a6.png
+[08-03-2022 18:31:18] Checking ca3a6f58-cd07-45aa-87d3-4a6785dfd474.png
+[08-03-2022 18:31:18] Checking c6a3d6a6-67d3-449a-acd0-67a4181492fe.png
+[08-03-2022 18:31:18] Checking c66add08-5d5e-4d62-89d3-0d5491c6b806.png
+[08-03-2022 18:31:18] Checking c4284be7-7ffb-4584-b0b8-4f91713a95e1.png
+[08-03-2022 18:31:18] Checking bcab51cf-f4cc-45ed-88f4-45139f7a20f7.png
+[08-03-2022 18:31:18] Checking bc5374d3-7ae1-44fa-a24f-c372f0dab18f.png
+[08-03-2022 18:31:18] Checking b8049734-a492-4411-8a0d-6d155e2f54d4.png
+[08-03-2022 18:31:18] Checking b7863802-eb3d-4b3b-b99c-1e72938d2d96.png
+[08-03-2022 18:31:18] Checking b5c5c7b3-0c3b-4394-bd38-e2ea1d4b4087.png
+[08-03-2022 18:31:18] Checking b27c2a71-cef2-4797-a9be-8266b550c102.png
+[08-03-2022 18:31:18] Checking afe14a78-561f-40f3-9e50-5724deee57ca.png
+[08-03-2022 18:31:18] Checking adbc2087-b7d4-47de-bbe2-4ef004a9f1a2.png
+[08-03-2022 18:31:18] Checking ad8fcaba-53ca-4b71-8bd1-8d066384bb8a.png
+[08-03-2022 18:31:18] Checking ad6da03f-4222-48ed-a6e9-24cc47227572.png
+[08-03-2022 18:31:18] Checking ac0e0484-7be6-46e4-86df-16a091b43541.png
+[08-03-2022 18:31:18] Checking ab86390f-5843-4242-843a-937ca8b26075.png
+[08-03-2022 18:31:18] Checking a82d3263-3abd-40da-81c2-853d7365e329.png
+[08-03-2022 18:31:18] Checking a7a5de73-e511-4b54-9e9b-0bf7f1ff8679.png
+[08-03-2022 18:31:18] Checking a658f513-f220-41cf-a0d5-44465befe9cd.png
+[08-03-2022 18:31:18] Checking a3036afa-c380-4be7-8cd8-9626493abbda.png
+[08-03-2022 18:31:18] Checking 9e845a5f-7a05-45e7-8995-9461b9844126.png
+[08-03-2022 18:31:18] Checking 94e36f8b-0ed5-4ddc-8f07-9bf9f2058175.png
+[08-03-2022 18:31:18] Checking 90627c25-66eb-4326-9170-b9c53482553e.png
+[08-03-2022 18:31:18] Checking 905c1868-ceb7-4baa-bef0-b07b1f4b5541.png
+[08-03-2022 18:31:18] Checking 90073973-ea4d-4c39-99b7-4a0d233065aa.png
+[08-03-2022 18:31:18] Checking 8e3aa8b4-615b-4ae1-bec6-44ebbc237991.png
+[08-03-2022 18:31:18] Checking 8d4d23c2-ddd4-43fc-acf4-53afa78f9d27.png
+[08-03-2022 18:31:18] Checking 86a3c239-f5c3-4024-b17a-49a442916a58.png
+[08-03-2022 18:31:18] Checking 853c0327-91ae-4871-9b26-39221fe1bd64.png
+[08-03-2022 18:31:18] Checking 83799962-37ef-455c-8377-d6344cdba4c9.png
+[08-03-2022 18:31:18] Checking 8162e503-196f-4ada-8661-fea2b35ef8a9.png
+[08-03-2022 18:31:18] Checking 80dcb129-4abb-4310-a056-bb360c558f35.png
+[08-03-2022 18:31:18] Checking 7e42e9cb-baa4-425a-a814-45dfc57aa1e5.png
+[08-03-2022 18:31:18] Checking 7642f815-468c-4843-a713-fc715542e5a7.png
+[08-03-2022 18:31:18] Checking 73c3263b-4fa7-491b-9b11-e538346062ae.png
+[08-03-2022 18:31:18] Checking 737cdc8b-ca25-47b8-977d-d4219eef7a5b.png
+[08-03-2022 18:31:18] Checking 719488a7-6aac-442d-b0a6-e11f6b84d1a9.png
+[08-03-2022 18:31:18] Checking 7165a33f-502a-4d7f-8c4d-192d5320ac49.png
+[08-03-2022 18:31:18] Checking 7097b8f3-4457-4ad7-bf35-ee88edb57316.png
+[08-03-2022 18:31:18] Checking 66966c9d-24be-4ed4-bf7a-99a9a865d468.png
+[08-03-2022 18:31:18] Checking 62f8d1f7-929d-4055-8aff-6f05fd3e98df.png
+[08-03-2022 18:31:18] Checking 61f3f221-1900-4dfb-a02e-72260a1eadf0.png
+[08-03-2022 18:31:18] Checking 61421893-9fa8-4ac2-84b2-9a27ab4eba83.png
+[08-03-2022 18:31:18] Checking 5e393af7-dd70-434c-8e56-ac96a035771f.png
+[08-03-2022 18:31:18] Checking 5d786199-58d0-4466-bd86-83dda6a4aedb.png
+[08-03-2022 18:31:18] Checking 58d88cab-5bd7-4a55-ab52-d0ac5daf9db8.png
+[08-03-2022 18:31:18] Checking 57164534-c17d-4356-96bf-5caed1f1031f.png
+[08-03-2022 18:31:18] Checking 558b1ba8-92aa-45a9-8cb1-6b56cc2e9a61.png
+[08-03-2022 18:31:18] Checking 5522e24c-a44f-47cd-8f41-be766d8ee470.png
+[08-03-2022 18:31:18] Checking 55019c14-8e7c-4186-bffc-44e1f69b9c4e.png
+[08-03-2022 18:31:18] Checking 52fe0953-a5e6-41c1-a925-c1c75c824bab.png
+[08-03-2022 18:31:18] Checking 512211b8-39ca-4307-ab12-d56c0bdbd5d9.png
+[08-03-2022 18:31:18] Checking 4fa0bb66-824f-4226-8348-e3a6a4d4f95b.png
+[08-03-2022 18:31:18] Checking 47959e0f-879f-4390-b551-0dd4de8eadf4.png
+[08-03-2022 18:31:18] Checking 43ba1ecd-8502-4938-a58e-470e5c6bf2bd.png
+[08-03-2022 18:31:18] Checking 427872f7-8091-4b01-ae7f-fa81f8640af8.png
+[08-03-2022 18:31:18] Checking 4079ce20-5342-4433-bbd3-9cf4fd0ecdca.png
+[08-03-2022 18:31:18] Checking 3e6ee7d6-52ed-4c10-a727-ac502e945de3.png
+[08-03-2022 18:31:18] Checking 385bf50b-e3f9-4a9c-b432-4ec9693e0529.png
+[08-03-2022 18:31:18] Checking 379c3639-39f7-4ca7-96d3-20b9542736df.png
+[08-03-2022 18:31:18] Checking 3644ae77-28b6-45fc-91a2-85abd58e8182.png
+[08-03-2022 18:31:18] Checking 343b88e9-5c8d-4606-9618-ff102fb52657.png
+[08-03-2022 18:31:18] Checking 33353086-04d0-4068-832b-aab871ec134f.png
+[08-03-2022 18:31:18] Checking 2d3eca59-b225-4fae-8154-6d387cd5c545.png
+[08-03-2022 18:31:18] Checking 2a0e7d21-a227-49f3-9fbb-9c20e71515a5.png
+[08-03-2022 18:31:18] Checking 2677153c-e282-4809-8daa-531a0258f6ed.png
+[08-03-2022 18:31:18] Checking 22b93da4-560d-4264-ade3-83d292bbfc91.png
+[08-03-2022 18:31:18] Checking 2293ac45-ef3a-43f3-bc97-b16a80fafd6e.png
+[08-03-2022 18:31:18] Checking 1bb6c932-8b7d-407e-b956-3fbc5c320321.png
+[08-03-2022 18:31:18] Checking 13e1219b-ce48-4005-9b1e-b951fd0e8a10.png
+[08-03-2022 18:31:18] Checking 13b6c414-1fee-437d-aecb-876a3b1879d0.png
+[08-03-2022 18:31:18] Checking 0d710cff-585b-4fee-991a-ab4b501c4a75.png
+[08-03-2022 18:31:18] Checking 0a577aff-c146-43d6-a0a1-643cab5c3e8e.png
+[08-03-2022 18:31:18] Checking 0a08fc56-2f4c-4fb8-831c-8c6050299b8e.png
+[08-03-2022 18:31:18] Checking 09836773-8de7-4375-8aed-bd746dee8497.png
+[08-03-2022 18:31:18] Checking 064841f3-b0f7-4ebd-82f4-71a09a64fb37.png
+[08-03-2022 18:31:18] Checking 063bbb69-25d9-4cb0-a4bb-28d9e5bba80e.png
+[08-03-2022 18:31:18] Checking 05af9828-47a4-4248-989d-d1ef144e8fa2.png
+[08-03-2022 18:31:18] Checking 03d06d72-0bd2-4b9f-b50d-4f1a7166159f.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers
+[08-03-2022 18:31:18] Checking fa2c7685-1cb0-4f26-b775-2c65625d61c9
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/fa2c7685-1cb0-4f26-b775-2c65625d61c9
+[08-03-2022 18:31:18] Checking f80cabd1-1668-4d9b-a5d5-3bc9d68a2c59
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/f80cabd1-1668-4d9b-a5d5-3bc9d68a2c59
+[08-03-2022 18:31:18] Checking f773dadf-907e-49f8-8d30-53beb5b17a8f
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/f773dadf-907e-49f8-8d30-53beb5b17a8f
+[08-03-2022 18:31:18] Checking f69f0973-6ee4-46bf-ba8f-98e90875eb95
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/f69f0973-6ee4-46bf-ba8f-98e90875eb95
+[08-03-2022 18:31:18] Checking ed159340-6d09-41a5-91a4-457288d054cf
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/ed159340-6d09-41a5-91a4-457288d054cf
+[08-03-2022 18:31:18] Checking ecfd9462-3281-4937-86b8-8295c17ba4ea
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/ecfd9462-3281-4937-86b8-8295c17ba4ea
+[08-03-2022 18:31:18] Checking ebd1f2ff-043f-45c1-a77b-52b080001003
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/ebd1f2ff-043f-45c1-a77b-52b080001003
+[08-03-2022 18:31:18] Checking eb81f946-f8c9-4a66-9c25-d57d246c25a3
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/eb81f946-f8c9-4a66-9c25-d57d246c25a3
+[08-03-2022 18:31:18] Checking e499cff6-8682-4211-99e8-d8f4383e8dba
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/e499cff6-8682-4211-99e8-d8f4383e8dba
+[08-03-2022 18:31:18] Checking e241bafb-ebdd-40ed-9986-2abfbdf7364a
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/e241bafb-ebdd-40ed-9986-2abfbdf7364a
+[08-03-2022 18:31:18] Checking e05c9c47-0b42-45d8-96ad-4b19d07a1170
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/e05c9c47-0b42-45d8-96ad-4b19d07a1170
+[08-03-2022 18:31:18] Checking db875bf3-95e0-4302-acf9-ee9ce7d3f01c
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/db875bf3-95e0-4302-acf9-ee9ce7d3f01c
+[08-03-2022 18:31:18] Checking d91ce5b3-dcbb-43d6-84ec-8cc2123f3073
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/d91ce5b3-dcbb-43d6-84ec-8cc2123f3073
+[08-03-2022 18:31:18] Checking ce04648d-1b9f-4917-b24a-bcc2685586a6
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/ce04648d-1b9f-4917-b24a-bcc2685586a6
+[08-03-2022 18:31:18] Checking ca3a6f58-cd07-45aa-87d3-4a6785dfd474
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/ca3a6f58-cd07-45aa-87d3-4a6785dfd474
+[08-03-2022 18:31:18] Checking c6a3d6a6-67d3-449a-acd0-67a4181492fe
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/c6a3d6a6-67d3-449a-acd0-67a4181492fe
+[08-03-2022 18:31:18] Checking c66add08-5d5e-4d62-89d3-0d5491c6b806
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/c66add08-5d5e-4d62-89d3-0d5491c6b806
+[08-03-2022 18:31:18] Checking c4284be7-7ffb-4584-b0b8-4f91713a95e1
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/c4284be7-7ffb-4584-b0b8-4f91713a95e1
+[08-03-2022 18:31:18] Checking bcab51cf-f4cc-45ed-88f4-45139f7a20f7
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/bcab51cf-f4cc-45ed-88f4-45139f7a20f7
+[08-03-2022 18:31:18] Checking bc5374d3-7ae1-44fa-a24f-c372f0dab18f
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/bc5374d3-7ae1-44fa-a24f-c372f0dab18f
+[08-03-2022 18:31:18] Checking b8049734-a492-4411-8a0d-6d155e2f54d4
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/b8049734-a492-4411-8a0d-6d155e2f54d4
+[08-03-2022 18:31:18] Checking b7863802-eb3d-4b3b-b99c-1e72938d2d96
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/b7863802-eb3d-4b3b-b99c-1e72938d2d96
+[08-03-2022 18:31:18] Checking b5c5c7b3-0c3b-4394-bd38-e2ea1d4b4087
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/b5c5c7b3-0c3b-4394-bd38-e2ea1d4b4087
+[08-03-2022 18:31:18] Checking b27c2a71-cef2-4797-a9be-8266b550c102
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/b27c2a71-cef2-4797-a9be-8266b550c102
+[08-03-2022 18:31:18] Checking afe14a78-561f-40f3-9e50-5724deee57ca
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/afe14a78-561f-40f3-9e50-5724deee57ca
+[08-03-2022 18:31:18] Checking adbc2087-b7d4-47de-bbe2-4ef004a9f1a2
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/adbc2087-b7d4-47de-bbe2-4ef004a9f1a2
+[08-03-2022 18:31:18] Checking ad8fcaba-53ca-4b71-8bd1-8d066384bb8a
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/ad8fcaba-53ca-4b71-8bd1-8d066384bb8a
+[08-03-2022 18:31:18] Checking ad6da03f-4222-48ed-a6e9-24cc47227572
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/ad6da03f-4222-48ed-a6e9-24cc47227572
+[08-03-2022 18:31:18] Checking ac0e0484-7be6-46e4-86df-16a091b43541
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/ac0e0484-7be6-46e4-86df-16a091b43541
+[08-03-2022 18:31:18] Checking ab86390f-5843-4242-843a-937ca8b26075
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/ab86390f-5843-4242-843a-937ca8b26075
+[08-03-2022 18:31:18] Checking a82d3263-3abd-40da-81c2-853d7365e329
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/a82d3263-3abd-40da-81c2-853d7365e329
+[08-03-2022 18:31:18] Checking a7a5de73-e511-4b54-9e9b-0bf7f1ff8679
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/a7a5de73-e511-4b54-9e9b-0bf7f1ff8679
+[08-03-2022 18:31:18] Checking a658f513-f220-41cf-a0d5-44465befe9cd
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/a658f513-f220-41cf-a0d5-44465befe9cd
+[08-03-2022 18:31:18] Checking a3036afa-c380-4be7-8cd8-9626493abbda
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/a3036afa-c380-4be7-8cd8-9626493abbda
+[08-03-2022 18:31:18] Checking 9e845a5f-7a05-45e7-8995-9461b9844126
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/9e845a5f-7a05-45e7-8995-9461b9844126
+[08-03-2022 18:31:18] Checking 94e36f8b-0ed5-4ddc-8f07-9bf9f2058175
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/94e36f8b-0ed5-4ddc-8f07-9bf9f2058175
+[08-03-2022 18:31:18] Checking 90627c25-66eb-4326-9170-b9c53482553e
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/90627c25-66eb-4326-9170-b9c53482553e
+[08-03-2022 18:31:18] Checking 905c1868-ceb7-4baa-bef0-b07b1f4b5541
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/905c1868-ceb7-4baa-bef0-b07b1f4b5541
+[08-03-2022 18:31:18] Checking 90073973-ea4d-4c39-99b7-4a0d233065aa
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/90073973-ea4d-4c39-99b7-4a0d233065aa
+[08-03-2022 18:31:18] Checking 8e3aa8b4-615b-4ae1-bec6-44ebbc237991
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/8e3aa8b4-615b-4ae1-bec6-44ebbc237991
+[08-03-2022 18:31:18] Checking 8d4d23c2-ddd4-43fc-acf4-53afa78f9d27
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/8d4d23c2-ddd4-43fc-acf4-53afa78f9d27
+[08-03-2022 18:31:18] Checking 86a3c239-f5c3-4024-b17a-49a442916a58
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/86a3c239-f5c3-4024-b17a-49a442916a58
+[08-03-2022 18:31:18] Checking 853c0327-91ae-4871-9b26-39221fe1bd64
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/853c0327-91ae-4871-9b26-39221fe1bd64
+[08-03-2022 18:31:18] Checking 83799962-37ef-455c-8377-d6344cdba4c9
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/83799962-37ef-455c-8377-d6344cdba4c9
+[08-03-2022 18:31:18] Checking 8162e503-196f-4ada-8661-fea2b35ef8a9
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/8162e503-196f-4ada-8661-fea2b35ef8a9
+[08-03-2022 18:31:18] Checking 80dcb129-4abb-4310-a056-bb360c558f35
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/80dcb129-4abb-4310-a056-bb360c558f35
+[08-03-2022 18:31:18] Checking 7e42e9cb-baa4-425a-a814-45dfc57aa1e5
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/7e42e9cb-baa4-425a-a814-45dfc57aa1e5
+[08-03-2022 18:31:18] Checking 7642f815-468c-4843-a713-fc715542e5a7
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/7642f815-468c-4843-a713-fc715542e5a7
+[08-03-2022 18:31:18] Checking 73c3263b-4fa7-491b-9b11-e538346062ae
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/73c3263b-4fa7-491b-9b11-e538346062ae
+[08-03-2022 18:31:18] Checking 737cdc8b-ca25-47b8-977d-d4219eef7a5b
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/737cdc8b-ca25-47b8-977d-d4219eef7a5b
+[08-03-2022 18:31:18] Checking 719488a7-6aac-442d-b0a6-e11f6b84d1a9
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/719488a7-6aac-442d-b0a6-e11f6b84d1a9
+[08-03-2022 18:31:18] Checking 7165a33f-502a-4d7f-8c4d-192d5320ac49
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/7165a33f-502a-4d7f-8c4d-192d5320ac49
+[08-03-2022 18:31:18] Checking 7097b8f3-4457-4ad7-bf35-ee88edb57316
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/7097b8f3-4457-4ad7-bf35-ee88edb57316
+[08-03-2022 18:31:18] Checking 66966c9d-24be-4ed4-bf7a-99a9a865d468
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/66966c9d-24be-4ed4-bf7a-99a9a865d468
+[08-03-2022 18:31:18] Checking 62f8d1f7-929d-4055-8aff-6f05fd3e98df
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/62f8d1f7-929d-4055-8aff-6f05fd3e98df
+[08-03-2022 18:31:18] Checking 61f3f221-1900-4dfb-a02e-72260a1eadf0
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/61f3f221-1900-4dfb-a02e-72260a1eadf0
+[08-03-2022 18:31:18] Checking 61421893-9fa8-4ac2-84b2-9a27ab4eba83
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/61421893-9fa8-4ac2-84b2-9a27ab4eba83
+[08-03-2022 18:31:18] Checking 5e393af7-dd70-434c-8e56-ac96a035771f
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/5e393af7-dd70-434c-8e56-ac96a035771f
+[08-03-2022 18:31:18] Checking 5d786199-58d0-4466-bd86-83dda6a4aedb
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/5d786199-58d0-4466-bd86-83dda6a4aedb
+[08-03-2022 18:31:18] Checking 58d88cab-5bd7-4a55-ab52-d0ac5daf9db8
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/58d88cab-5bd7-4a55-ab52-d0ac5daf9db8
+[08-03-2022 18:31:18] Checking 57164534-c17d-4356-96bf-5caed1f1031f
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/57164534-c17d-4356-96bf-5caed1f1031f
+[08-03-2022 18:31:18] Checking 558b1ba8-92aa-45a9-8cb1-6b56cc2e9a61
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/558b1ba8-92aa-45a9-8cb1-6b56cc2e9a61
+[08-03-2022 18:31:18] Checking 5522e24c-a44f-47cd-8f41-be766d8ee470
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/5522e24c-a44f-47cd-8f41-be766d8ee470
+[08-03-2022 18:31:18] Checking 55019c14-8e7c-4186-bffc-44e1f69b9c4e
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/55019c14-8e7c-4186-bffc-44e1f69b9c4e
+[08-03-2022 18:31:18] Checking 52fe0953-a5e6-41c1-a925-c1c75c824bab
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/52fe0953-a5e6-41c1-a925-c1c75c824bab
+[08-03-2022 18:31:18] Checking 512211b8-39ca-4307-ab12-d56c0bdbd5d9
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/512211b8-39ca-4307-ab12-d56c0bdbd5d9
+[08-03-2022 18:31:18] Checking 4fa0bb66-824f-4226-8348-e3a6a4d4f95b
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/4fa0bb66-824f-4226-8348-e3a6a4d4f95b
+[08-03-2022 18:31:18] Checking 47959e0f-879f-4390-b551-0dd4de8eadf4
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/47959e0f-879f-4390-b551-0dd4de8eadf4
+[08-03-2022 18:31:18] Checking 43ba1ecd-8502-4938-a58e-470e5c6bf2bd
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/43ba1ecd-8502-4938-a58e-470e5c6bf2bd
+[08-03-2022 18:31:18] Checking 427872f7-8091-4b01-ae7f-fa81f8640af8
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/427872f7-8091-4b01-ae7f-fa81f8640af8
+[08-03-2022 18:31:18] Checking 4079ce20-5342-4433-bbd3-9cf4fd0ecdca
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/4079ce20-5342-4433-bbd3-9cf4fd0ecdca
+[08-03-2022 18:31:18] Checking 3e6ee7d6-52ed-4c10-a727-ac502e945de3
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/3e6ee7d6-52ed-4c10-a727-ac502e945de3
+[08-03-2022 18:31:18] Checking 385bf50b-e3f9-4a9c-b432-4ec9693e0529
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/385bf50b-e3f9-4a9c-b432-4ec9693e0529
+[08-03-2022 18:31:18] Checking 379c3639-39f7-4ca7-96d3-20b9542736df
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/379c3639-39f7-4ca7-96d3-20b9542736df
+[08-03-2022 18:31:18] Checking 3644ae77-28b6-45fc-91a2-85abd58e8182
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/3644ae77-28b6-45fc-91a2-85abd58e8182
+[08-03-2022 18:31:18] Checking 343b88e9-5c8d-4606-9618-ff102fb52657
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/343b88e9-5c8d-4606-9618-ff102fb52657
+[08-03-2022 18:31:18] Checking 33353086-04d0-4068-832b-aab871ec134f
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/33353086-04d0-4068-832b-aab871ec134f
+[08-03-2022 18:31:18] Checking 2d3eca59-b225-4fae-8154-6d387cd5c545
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/2d3eca59-b225-4fae-8154-6d387cd5c545
+[08-03-2022 18:31:18] Checking 2a0e7d21-a227-49f3-9fbb-9c20e71515a5
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/2a0e7d21-a227-49f3-9fbb-9c20e71515a5
+[08-03-2022 18:31:18] Checking 2677153c-e282-4809-8daa-531a0258f6ed
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/2677153c-e282-4809-8daa-531a0258f6ed
+[08-03-2022 18:31:18] Checking 22b93da4-560d-4264-ade3-83d292bbfc91
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/22b93da4-560d-4264-ade3-83d292bbfc91
+[08-03-2022 18:31:18] Checking 2293ac45-ef3a-43f3-bc97-b16a80fafd6e
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/2293ac45-ef3a-43f3-bc97-b16a80fafd6e
+[08-03-2022 18:31:18] Checking 1bb6c932-8b7d-407e-b956-3fbc5c320321
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/1bb6c932-8b7d-407e-b956-3fbc5c320321
+[08-03-2022 18:31:18] Checking 13e1219b-ce48-4005-9b1e-b951fd0e8a10
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/13e1219b-ce48-4005-9b1e-b951fd0e8a10
+[08-03-2022 18:31:18] Checking 13b6c414-1fee-437d-aecb-876a3b1879d0
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/13b6c414-1fee-437d-aecb-876a3b1879d0
+[08-03-2022 18:31:18] Checking 0d710cff-585b-4fee-991a-ab4b501c4a75
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/0d710cff-585b-4fee-991a-ab4b501c4a75
+[08-03-2022 18:31:18] Checking 0a577aff-c146-43d6-a0a1-643cab5c3e8e
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/0a577aff-c146-43d6-a0a1-643cab5c3e8e
+[08-03-2022 18:31:18] Checking 0a08fc56-2f4c-4fb8-831c-8c6050299b8e
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/0a08fc56-2f4c-4fb8-831c-8c6050299b8e
+[08-03-2022 18:31:18] Checking 09836773-8de7-4375-8aed-bd746dee8497
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/09836773-8de7-4375-8aed-bd746dee8497
+[08-03-2022 18:31:18] Checking 064841f3-b0f7-4ebd-82f4-71a09a64fb37
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/064841f3-b0f7-4ebd-82f4-71a09a64fb37
+[08-03-2022 18:31:18] Checking 063bbb69-25d9-4cb0-a4bb-28d9e5bba80e
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/063bbb69-25d9-4cb0-a4bb-28d9e5bba80e
+[08-03-2022 18:31:18] Checking 05af9828-47a4-4248-989d-d1ef144e8fa2
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/05af9828-47a4-4248-989d-d1ef144e8fa2
+[08-03-2022 18:31:18] Checking 03d06d72-0bd2-4b9f-b50d-4f1a7166159f
+[08-03-2022 18:31:18] Directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/03d06d72-0bd2-4b9f-b50d-4f1a7166159f
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/03d06d72-0bd2-4b9f-b50d-4f1a7166159f
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/05af9828-47a4-4248-989d-d1ef144e8fa2
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/063bbb69-25d9-4cb0-a4bb-28d9e5bba80e
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/064841f3-b0f7-4ebd-82f4-71a09a64fb37
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/09836773-8de7-4375-8aed-bd746dee8497
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/0a08fc56-2f4c-4fb8-831c-8c6050299b8e
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/0a577aff-c146-43d6-a0a1-643cab5c3e8e
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/0d710cff-585b-4fee-991a-ab4b501c4a75
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/13b6c414-1fee-437d-aecb-876a3b1879d0
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/13e1219b-ce48-4005-9b1e-b951fd0e8a10
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/1bb6c932-8b7d-407e-b956-3fbc5c320321
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/2293ac45-ef3a-43f3-bc97-b16a80fafd6e
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/22b93da4-560d-4264-ade3-83d292bbfc91
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/2677153c-e282-4809-8daa-531a0258f6ed
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/2a0e7d21-a227-49f3-9fbb-9c20e71515a5
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/2d3eca59-b225-4fae-8154-6d387cd5c545
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/33353086-04d0-4068-832b-aab871ec134f
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/343b88e9-5c8d-4606-9618-ff102fb52657
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/3644ae77-28b6-45fc-91a2-85abd58e8182
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/379c3639-39f7-4ca7-96d3-20b9542736df
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/385bf50b-e3f9-4a9c-b432-4ec9693e0529
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/3e6ee7d6-52ed-4c10-a727-ac502e945de3
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/4079ce20-5342-4433-bbd3-9cf4fd0ecdca
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/427872f7-8091-4b01-ae7f-fa81f8640af8
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/43ba1ecd-8502-4938-a58e-470e5c6bf2bd
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/47959e0f-879f-4390-b551-0dd4de8eadf4
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/4fa0bb66-824f-4226-8348-e3a6a4d4f95b
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/512211b8-39ca-4307-ab12-d56c0bdbd5d9
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/52fe0953-a5e6-41c1-a925-c1c75c824bab
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/55019c14-8e7c-4186-bffc-44e1f69b9c4e
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/5522e24c-a44f-47cd-8f41-be766d8ee470
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/558b1ba8-92aa-45a9-8cb1-6b56cc2e9a61
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/57164534-c17d-4356-96bf-5caed1f1031f
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/58d88cab-5bd7-4a55-ab52-d0ac5daf9db8
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/5d786199-58d0-4466-bd86-83dda6a4aedb
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/5e393af7-dd70-434c-8e56-ac96a035771f
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/61421893-9fa8-4ac2-84b2-9a27ab4eba83
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/61f3f221-1900-4dfb-a02e-72260a1eadf0
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/62f8d1f7-929d-4055-8aff-6f05fd3e98df
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/66966c9d-24be-4ed4-bf7a-99a9a865d468
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/7097b8f3-4457-4ad7-bf35-ee88edb57316
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/7165a33f-502a-4d7f-8c4d-192d5320ac49
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/719488a7-6aac-442d-b0a6-e11f6b84d1a9
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/737cdc8b-ca25-47b8-977d-d4219eef7a5b
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/73c3263b-4fa7-491b-9b11-e538346062ae
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/7642f815-468c-4843-a713-fc715542e5a7
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/7e42e9cb-baa4-425a-a814-45dfc57aa1e5
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/80dcb129-4abb-4310-a056-bb360c558f35
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/8162e503-196f-4ada-8661-fea2b35ef8a9
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/83799962-37ef-455c-8377-d6344cdba4c9
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/853c0327-91ae-4871-9b26-39221fe1bd64
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/86a3c239-f5c3-4024-b17a-49a442916a58
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/8d4d23c2-ddd4-43fc-acf4-53afa78f9d27
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/8e3aa8b4-615b-4ae1-bec6-44ebbc237991
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/90073973-ea4d-4c39-99b7-4a0d233065aa
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/905c1868-ceb7-4baa-bef0-b07b1f4b5541
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/90627c25-66eb-4326-9170-b9c53482553e
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/94e36f8b-0ed5-4ddc-8f07-9bf9f2058175
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/9e845a5f-7a05-45e7-8995-9461b9844126
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/a3036afa-c380-4be7-8cd8-9626493abbda
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/a658f513-f220-41cf-a0d5-44465befe9cd
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/a7a5de73-e511-4b54-9e9b-0bf7f1ff8679
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/a82d3263-3abd-40da-81c2-853d7365e329
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/ab86390f-5843-4242-843a-937ca8b26075
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/ac0e0484-7be6-46e4-86df-16a091b43541
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/ad6da03f-4222-48ed-a6e9-24cc47227572
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/ad8fcaba-53ca-4b71-8bd1-8d066384bb8a
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/adbc2087-b7d4-47de-bbe2-4ef004a9f1a2
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/afe14a78-561f-40f3-9e50-5724deee57ca
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/b27c2a71-cef2-4797-a9be-8266b550c102
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/b5c5c7b3-0c3b-4394-bd38-e2ea1d4b4087
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/b7863802-eb3d-4b3b-b99c-1e72938d2d96
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/b8049734-a492-4411-8a0d-6d155e2f54d4
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/bc5374d3-7ae1-44fa-a24f-c372f0dab18f
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/bcab51cf-f4cc-45ed-88f4-45139f7a20f7
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/c4284be7-7ffb-4584-b0b8-4f91713a95e1
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/c66add08-5d5e-4d62-89d3-0d5491c6b806
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/c6a3d6a6-67d3-449a-acd0-67a4181492fe
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/ca3a6f58-cd07-45aa-87d3-4a6785dfd474
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/ce04648d-1b9f-4917-b24a-bcc2685586a6
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/d91ce5b3-dcbb-43d6-84ec-8cc2123f3073
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/db875bf3-95e0-4302-acf9-ee9ce7d3f01c
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/e05c9c47-0b42-45d8-96ad-4b19d07a1170
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/e241bafb-ebdd-40ed-9986-2abfbdf7364a
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/e499cff6-8682-4211-99e8-d8f4383e8dba
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/eb81f946-f8c9-4a66-9c25-d57d246c25a3
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/ebd1f2ff-043f-45c1-a77b-52b080001003
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/ecfd9462-3281-4937-86b8-8295c17ba4ea
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/ed159340-6d09-41a5-91a4-457288d054cf
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/f69f0973-6ee4-46bf-ba8f-98e90875eb95
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/f773dadf-907e-49f8-8d30-53beb5b17a8f
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/f80cabd1-1668-4d9b-a5d5-3bc9d68a2c59
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/sprites/spr_fnt_default/layers/fa2c7685-1cb0-4f26-b775-2c65625d61c9
+[08-03-2022 18:31:18] Checking 9ea2b821-0d30-4d8e-bd42-b1de45708da0.png
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/tilesets
+[08-03-2022 18:31:18] Current parent directory: D:/Git/ShipOS/timelines
+[08-03-2022 18:31:18] Moving files to trash...
+[08-03-2022 18:31:18] Files yeeted successfully!
+[08-03-2022 18:31:18] Generating YYP...
+[08-03-2022 18:31:18] ShipOS.yyp created successfully!

@@ -1,31 +1,27 @@
-// Evluates the command passed to the console.
-
-function cmd_evaluate() {
+function cmd_evaluate(line, scope_level) {
 	
-	log(">" + keyboard_string)
+	if (sys_command_evaluate(line, scope_level)) { return true }
 	
-	var cmd_array = explode(keyboard_string, " ");
-	
-	if (string_char_at(cmd_array[0], 1) = "#") {
+	if (is_real(line[0][1]) && line[0][0] = identifier) {
 		
-		global_var_map[? cmd_array[0]] = cmd_array[1];
+		scope[scope_level + 1] = [];
 		
-		return
-		
-	}
-	
-	if (ds_map_exists(cmd_map, cmd_array[0])) {
-		
-		file_run(cmd_map[? cmd_array[0]]);
-		
-	} else {
-		
-		if (!sys_command_evaluate(cmd_array)) {
+		for (var i = 1; i < array_length(line); i ++) {
 			
-			log("\"" + keyboard_string + "\" is not a valid function");
+			var arg = [ "arg" + string(i - 1), line[i][0], line[i][1] ];
+			array_push(scope[scope_level + 1], arg);
 			
 		}
 		
+		var func_array = ds_map_values_to_array(func_map);
+		file_run(func_array[line[0][1]], scope_level + 1);
+		
+		return true
+		
 	}
+	
+	if (error) { trace("cmd eval"); return false }
+	
+	return false
 	
 }

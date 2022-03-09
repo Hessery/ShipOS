@@ -8,4 +8,6 @@ function screen_init() {
 		
 	surface_reset_target();
 	
+	log("Screen initialised");
+	
 }

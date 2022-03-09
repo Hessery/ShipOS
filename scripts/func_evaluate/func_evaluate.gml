@@ -1,12 +1,18 @@
-function func_evaluate(line) {
+// Evluates the command passed to the console.
+
+function func_evaluate() {
 	
-	if (ds_map_exists(cmd_map, line[0])) {
+	log(">" + keyboard_string)
+	
+	error = false;
+	line_evaluate(keyboard_string, system_scope);
+	
+	if (error) {
 		
-		file_run(cmd_map[? line[0]]);
-		
-	} else {
-		
-		sys_command_evaluate(line);
+		log("err:");
+		log(string_copy(trace_str, 4, string_length(trace_str)));
+		trace_str = "";
+		error = false;
 		
 	}
 	

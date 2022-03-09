@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Console",
-    "path": "folders/Functions/Console.yy",
+    "name": "Init",
+    "path": "folders/Functions/System/Init.yy",
   },
   "resourceVersion": "1.0",
-  "name": "func_evaluate",
+  "name": "func_init",
   "tags": [],
   "resourceType": "GMScript",
 }

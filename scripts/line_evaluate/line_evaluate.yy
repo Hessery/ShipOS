@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Init",
-    "path": "folders/Functions/System/Init.yy",
+    "name": "Functions",
+    "path": "folders/Functions.yy",
   },
   "resourceVersion": "1.0",
-  "name": "cmd_init",
+  "name": "line_evaluate",
   "tags": [],
   "resourceType": "GMScript",
 }

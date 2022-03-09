@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Console",
-    "path": "folders/Functions/Console.yy",
+    "name": "Functions",
+    "path": "folders/Functions.yy",
   },
   "resourceVersion": "1.0",
-  "name": "func_evaluate",
+  "name": "equation_evaluate",
   "tags": [],
   "resourceType": "GMScript",
 }
