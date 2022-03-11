@@ -1,9 +1,20 @@
+var arg0 = 0
+var arg1 = 0
+var arg2 = 0
+var arg3 = 0
+var arg4 = 0
+var arg5 = 0
+var arg6 = 0
+var arg7 = 0
+var arg8 = 0
+var arg9 = 0
+
 clear
 print ""
 print " Shipos 0.1"
 print " (c) 2022 Hot nenjine"
 print ""
-print "  type 'help 0' for help"
+print "  type 'help' for help"
 print ""
 print ""
 print ""
