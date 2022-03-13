@@ -2,8 +2,8 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Init",
-    "path": "folders/Functions/System/Init.yy",
+    "name": "Console",
+    "path": "folders/Functions/Console.yy",
   },
   "resourceVersion": "1.0",
   "name": "console_init",

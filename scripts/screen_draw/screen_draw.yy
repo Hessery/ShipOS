@@ -2,8 +2,8 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Functions",
-    "path": "folders/Functions.yy",
+    "name": "Misc",
+    "path": "folders/Functions/Misc.yy",
   },
   "resourceVersion": "1.0",
   "name": "screen_draw",

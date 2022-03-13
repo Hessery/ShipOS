@@ -27,16 +27,16 @@
 // Separators
 #macro l_parenth		0
 #macro r_parenth		1
-#macro l_c_bracket		2
-#macro r_c_bracket		3
-#macro l_bracket		4
-#macro r_bracket		5
+#macro l_bracket		2
+#macro r_bracket		3
 
 // Keywords
 #macro IF				0
 #macro ELSE				1
 #macro END				2
 #macro VAR				3
+#macro GLOBAL			4
+#macro RETURN			5
 
 // Litteral
 #macro TRUE				1

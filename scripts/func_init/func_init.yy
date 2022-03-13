@@ -2,8 +2,8 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Init",
-    "path": "folders/Functions/System/Init.yy",
+    "name": "Misc",
+    "path": "folders/Functions/Misc.yy",
   },
   "resourceVersion": "1.0",
   "name": "func_init",

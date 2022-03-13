@@ -2,8 +2,8 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Memory",
-    "path": "folders/Functions/Memory.yy",
+    "name": "Init",
+    "path": "folders/Functions/System/Init.yy",
   },
   "resourceVersion": "1.0",
   "name": "memory_init",

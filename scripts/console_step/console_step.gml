@@ -1,19 +1,8 @@
-// What the console runs
-
 function console_step() {
 	
-	keyboard_string = string_upper(keyboard_string);
-
-	input_limit();
-
-	if (keyboard_check_pressed(vk_enter)) {
-	
-		console_evaluate();
-		keyboard_string = ""
-	
-	};
-
-	var length = array_length(log_array);
-	if (length - 23 > 0) { array_delete(log_array, 0, length - 23) };
+	clipboard_step();
+	console_input_parse();
+	console_input_eval();
+	console_log_trim();
 	
 }

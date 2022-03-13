@@ -1,0 +1,7 @@
+#macro e01	"e01: Undefined variable"
+#macro e02	"e02: Not assigning to a variable"
+#macro e03	"e03: Not an operator"
+#macro e04	"e04: Missing equal operators"
+#macro e05	"e05: Mixed literal type in equation"
+#macro e06	"e06: Multiple equals operators"
+#macro e07	"e07: Not adding strings"
