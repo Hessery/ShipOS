@@ -41,6 +41,7 @@
     {"id":{"name":"token_fetch","path":"scripts/token_fetch/token_fetch.yy",},"order":6,},
     {"id":{"name":"sys_memory","path":"scripts/sys_memory/sys_memory.yy",},"order":8,},
     {"id":{"name":"sys_print","path":"scripts/sys_print/sys_print.yy",},"order":5,},
+    {"id":{"name":"stream_func_eval","path":"scripts/stream_func_eval/stream_func_eval.yy",},"order":8,},
     {"id":{"name":"console_input_eval","path":"scripts/console_input_eval/console_input_eval.yy",},"order":4,},
     {"id":{"name":"sys_reboot","path":"scripts/sys_reboot/sys_reboot.yy",},"order":6,},
     {"id":{"name":"func_eval","path":"scripts/func_eval/func_eval.yy",},"order":1,},

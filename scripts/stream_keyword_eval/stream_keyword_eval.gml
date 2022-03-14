@@ -1,7 +1,5 @@
 function stream_keyword_eval(stream, scope_level) {
 	
-	show_message(stream);
-	
 	if (stream[0][0] != keyword) { return -1 }
 	
 	switch (stream[0][1]) {

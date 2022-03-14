@@ -4,6 +4,6 @@ function stream_literal_eval(stream, scope_level) {
 	var equ = stream_fetch(stream, scope_level);
 	
 	// Return the calculation
-	return equ_eval(equ, false);
+	return equ_eval(equ);
 	
 }
