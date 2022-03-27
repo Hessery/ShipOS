@@ -1,6 +1,9 @@
 // Evaluates an equation
 
-function equ_eval(equ) {
+function equ_eval(stream, scope_level) {
+	
+	// Vars not being fetched correctly
+	var equ = stream_fetch(stream, scope_level);
 	
 	// Make sure were only using integers or strings
 	var is_str = false;
@@ -112,7 +115,7 @@ function equ_eval(equ) {
 					array_delete(equ, i, 1);
 					array_delete(inside_equ, 0, 1);
 					
-					array_push(equ, equ_eval(inside_equ));
+					array_push(equ, equ_eval(inside_equ, scope_level));
 					
 				}
 				
@@ -136,11 +139,13 @@ function equ_eval(equ) {
 			
 			var left_equ = []
 			array_copy(left_equ, 0, equ, 0, equals_pos);
-			var left_solved = equ_eval(left_equ);
+			var left_solved = equ_eval(left_equ, scope_level);
 			
 			var right_equ = [];
 			array_copy(right_equ, 0, equ, equals_pos + 1, array_length(equ));
-			var right_solved = equ_eval(right_equ);
+			var right_solved = equ_eval(right_equ, scope_level);
+			
+			if (!is_array(right_solved) || !is_array(left_solved)) { return -1 }
 			
 			return [ literal, left_solved[1] = right_solved[1] ]
 			

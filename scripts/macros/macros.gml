@@ -16,6 +16,7 @@
 #macro keyword			3
 #macro literal			4
 #macro identifier		5
+#macro returner			6
 
 // Operators
 #macro equals			0

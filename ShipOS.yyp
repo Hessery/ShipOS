@@ -10,9 +10,11 @@
     {"id":{"name":"fnt_default","path":"fonts/fnt_default/fnt_default.yy",},"order":1,},
     {"id":{"name":"clipboard_step","path":"scripts/clipboard_step/clipboard_step.yy",},"order":6,},
     {"id":{"name":"file_find_in","path":"scripts/file_find_in/file_find_in.yy",},"order":4,},
+    {"id":{"name":"sys_run","path":"scripts/sys_run/sys_run.yy",},"order":10,},
     {"id":{"name":"stream_keyword_eval","path":"scripts/stream_keyword_eval/stream_keyword_eval.yy",},"order":5,},
     {"id":{"name":"Note","path":"notes/Note/Note.yy",},"order":2,},
     {"id":{"name":"cmd_eval","path":"scripts/cmd_eval/cmd_eval.yy",},"order":0,},
+    {"id":{"name":"sys_shutdown","path":"scripts/sys_shutdown/sys_shutdown.yy",},"order":9,},
     {"id":{"name":"console_input_parse","path":"scripts/console_input_parse/console_input_parse.yy",},"order":2,},
     {"id":{"name":"stream_eval","path":"scripts/stream_eval/stream_eval.yy",},"order":0,},
     {"id":{"name":"string_operator_lex","path":"scripts/string_operator_lex/string_operator_lex.yy",},"order":2,},
@@ -90,7 +92,9 @@
   "IncludedFiles": [
     {"CopyToMask":3035461389054378222,"filePath":"datafiles/System","resourceVersion":"1.0","name":"help.sos","resourceType":"GMIncludedFile",},
     {"CopyToMask":-1,"filePath":"datafiles/System","resourceVersion":"1.0","name":"clear.sos","resourceType":"GMIncludedFile",},
-    {"CopyToMask":3035461389054378222,"filePath":"datafiles/System","resourceVersion":"1.0","name":"startup.sos","resourceType":"GMIncludedFile",},
+    {"CopyToMask":3035461389054378222,"filePath":"datafiles/User","resourceVersion":"1.0","name":"arg.sos","resourceType":"GMIncludedFile",},
+    {"CopyToMask":-1,"filePath":"datafiles/System","resourceVersion":"1.0","name":"startup.sos","resourceType":"GMIncludedFile",},
+    {"CopyToMask":-1,"filePath":"datafiles/User","resourceVersion":"1.0","name":"tester.sos","resourceType":"GMIncludedFile",},
   ],
   "MetaData": {
     "IDEVersion": "2022.2.1.618",

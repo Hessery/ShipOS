@@ -2,6 +2,8 @@
 
 function stream_eval(stream, scope_level) {
 	
+	if (stream[0][0] = comment) { return -1 }
+	
 	// First check keywords for IF END and ELSE
 	if_depth[scope_level] += stream_if_depth_eval(stream, scope_level);
 	

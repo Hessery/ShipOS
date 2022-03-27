@@ -19,8 +19,6 @@ function file_find_in(directory, type) {
 		
 	}
 	
-	//show_message(file)
-	
 	file_find_close();
 	
 	var output = []

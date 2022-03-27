@@ -1,0 +1,2 @@
+global arg0 = arg0 + 1
+print arg0

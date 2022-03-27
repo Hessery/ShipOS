@@ -5,3 +5,4 @@
 #macro e05	"e05: Mixed literal type in equation"
 #macro e06	"e06: Multiple equals operators"
 #macro e07	"e07: Not adding strings"
+#macro e08	"e08: No function found to run"

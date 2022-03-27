@@ -1,7 +1,7 @@
 if arg0 = 0
 print "help 0  help contents"
 print "help 1  command help"
-print "help 2  other"
+print "help 2  keyword list"
 end
 
 if arg0 = 1
@@ -11,5 +11,8 @@ print "reboot  reboots the system"
 end
 
 if arg0 = 2
-print "spoopy crapple"
+print "var     declare a variable in the local scope"
+print "global  declare a variable in global scope"
+print "run     sets a function to run at the start of"
+print "        every frame until told to stop"
 end

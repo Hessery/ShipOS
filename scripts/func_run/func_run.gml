@@ -7,20 +7,27 @@ function func_run(address, scope_level) {
 	
 	while (true) {
 		
-		if_depth[scope_level + 1] = 0;
-		scope[scope_level + 1] = []; 
-		
 		var str = file_text_read_string(file);
 		str = string_upper(str);
-		var stream = string_lex(str, scope_level + 1);
-		var ret = stream_eval(stream, scope_level + 1);
-		//if (ret != -1) { return ret };
+		
+		var stream = string_lex(str, scope_level);
+		var ret = stream_eval(stream, scope_level);
+		
+		if (is_array(ret) && ret[0] = returner) {
+			
+			file_text_close(file);
+			
+			var arr = [];
+			array_copy(arr, 0, ret, 1, array_length(ret));
+			return arr;
+		}
 		
 		file_text_readln(file);
-		if (file_text_eof(file)) { return "" }
+		if (file_text_eof(file)) { file_text_close(file) return "" }
 		
 	}
 	
+	file_text_close(file)
 	return -1
 	
 }

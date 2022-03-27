@@ -2,9 +2,16 @@
 
 function scope_fetch(token, scope_level) {
 	
+	// Breaks here fetching token from scope
+	
+	//show_message(token);
+	
 	for (var o = 0; o < array_length(scope[scope_level]); o ++) {
 		
-		if (scope[scope_level][o][0] = token[1]) {
+		var value1 = scope[scope_level][o][0];
+		var value2 = token[1];
+		
+		if (value1 = value2) {
 			
 			var type	= scope[scope_level][o][1];
 			var value	= scope[scope_level][o][2];

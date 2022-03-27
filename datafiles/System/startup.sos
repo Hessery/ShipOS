@@ -11,7 +11,7 @@ var arg9 = 0
 
 clear
 print ""
-print " Shipos 0.1"
+print " Shipos 0.3"
 print " (c) 2022 Hot nenjine"
 print ""
 print "  type 'help' for help"

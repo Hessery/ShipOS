@@ -2,7 +2,7 @@ function stream_identifier_eval(stream, scope_level) {
 	
 	if (array_length(stream) = 1) { 
 		
-		var ret = token_fetch(stream, scope_level);
+		var ret = token_fetch(stream[0], scope_level);
 		if (ret != -1) { return ret[1] } else { return e01 }
 		
 	}
