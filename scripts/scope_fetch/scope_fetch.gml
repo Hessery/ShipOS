@@ -2,10 +2,6 @@
 
 function scope_fetch(token, scope_level) {
 	
-	// Breaks here fetching token from scope
-	
-	//show_message(token);
-	
 	for (var o = 0; o < array_length(scope[scope_level]); o ++) {
 		
 		var value1 = scope[scope_level][o][0];

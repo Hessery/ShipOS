@@ -1,18 +1,22 @@
 if arg0 = 0
-print "help 0  help contents"
-print "help 1  command help"
-print "help 2  keyword list"
+print "help 0   help contents"
+print "help 1   command help"
+print "help 2   keyword list"
 end
 
 if arg0 = 1
-print "memory  dumps memory to console"
-print "print   prints a value to console"
-print "reboot  reboots the system"
+print "memory   dumps memory to console"
+print "print    prints a value to console"
+print "reboot   reboots the system"
+print "shutdown "
 end
 
 if arg0 = 2
-print "var     declare a variable in the local scope"
-print "global  declare a variable in global scope"
-print "run     sets a function to run at the start of"
-print "        every frame until told to stop"
+print "var      declare a variable in the local scope"
+print "global   declare a variable in global scope"
+print "run      sets a function to run at the start of"
+print "         every frame until told to stop"
+print "return   exits the function, passing the rest"
+print "         of the line back to where the function"
+print "         was called"
 end

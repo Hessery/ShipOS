@@ -64,12 +64,15 @@ function stream_keyword_eval(stream, scope_level) {
 				
 			}
 			
-			if (pos != -1) { array_delete(scope[system_scope], pos, 1) }
+			//if (pos != -1) { array_delete(scope[system_scope], pos, 1) }
 			
 			var equ = [];
 			array_copy(equ, 0, stream, 3, array_length(stream));
+			
+			var test = stream_fetch(equ, scope_level);
 			var output = equ_eval(equ, scope_level);
 			
+			if (pos != -1) { array_delete(scope[system_scope], pos, 1) }
 			array_push(
 				scope[system_scope], 
 				[ stream[1][1], output[0], output[1] ]
