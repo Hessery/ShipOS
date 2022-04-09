@@ -38,6 +38,7 @@
 #macro VAR				3
 #macro GLOBAL			4
 #macro RETURN			5
+#macro WHILE			6
 
 // Litteral
 #macro TRUE				1

@@ -93,6 +93,12 @@ function stream_keyword_eval(stream, scope_level) {
 			return ret_arr;
 			
 		break;
+		
+		case WHILE:
+			
+			show_message("While");
+			
+		break;
 			
 	}
 	

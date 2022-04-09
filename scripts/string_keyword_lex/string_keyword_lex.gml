@@ -9,6 +9,7 @@ function string_keyword_lex(str) {
 		case "VAR":		output = VAR		break;
 		case "GLOBAL":	output = GLOBAL		break;
 		case "RETURN":	output = RETURN		break;
+		case "WHILE":	output = WHILE		break;
 		
 	}
 	

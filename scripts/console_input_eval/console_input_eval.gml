@@ -9,7 +9,6 @@ function console_input_eval() {
 		var output = stream_eval(stream, system_scope);
 		if (output != -1) { if (!is_array(output)) { log(output) } }
 		
-		//log(scope);
 		log("");
 		
 		keyboard_string = ""
