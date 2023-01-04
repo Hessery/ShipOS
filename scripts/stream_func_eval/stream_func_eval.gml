@@ -1,5 +1,7 @@
 function stream_func_eval(stream, scope_level) {
 	
+	//show_message(stream);
+	
 	var ret = cmd_eval(stream, scope_level);
 	if (ret != -1) { return ret }
 	

@@ -2,13 +2,15 @@ if arg0 = 0
 print "help 0   help contents"
 print "help 1   command help"
 print "help 2   keyword list"
+print "help 3   default programs"
 end
 
 if arg0 = 1
+print "progs    shows all programs and their locations"
+print "reboot   reboots the system"
+print "shutdown shuts down the system"
 print "memory   dumps memory to console"
 print "print    prints a value to console"
-print "reboot   reboots the system"
-print "shutdown "
 end
 
 if arg0 = 2
@@ -19,4 +21,13 @@ print "         every frame until told to stop"
 print "return   exits the function, passing the rest"
 print "         of the line back to where the function"
 print "         was called"
+print "key      "
+end
+
+if arg0 = 3
+print "help     shows this help menu"
+print "clear    clears the console"
+print "startup  clears the console, sets up default"
+print "         variables and shows the splash screen."
+print "         runs on startup when in \system\"
 end

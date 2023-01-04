@@ -1,3 +1,4 @@
-VAR i = i + 1
+global i = 10
 
-PRINT i
+i = i + 1
+return i

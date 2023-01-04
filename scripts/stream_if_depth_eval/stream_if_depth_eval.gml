@@ -20,6 +20,7 @@ function stream_if_depth_eval(stream, scope_level) {
 						var equ = [];
 						array_copy(equ, 0, stream, 1, array_length(stream));
 						equ = stream_fetch(equ, scope_level);
+						//equ = stream_eval(equ, scope_level);
 						if (!equ_eval(equ, scope_level)[1]) { ret ++ }
 						
 					break;

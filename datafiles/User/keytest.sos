@@ -1,0 +1,6 @@
+if key "h"
+print "win"
+return 1
+end
+print "lose"
+return 1

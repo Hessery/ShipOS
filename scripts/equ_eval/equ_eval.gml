@@ -121,6 +121,8 @@ function equ_eval(stream, scope_level) {
 				
 				var val = equ[i][1];
 				
+				if (typeof(output) != typeof(val)) { return e05 }
+				
 				switch (equ[i - 1][1]) {
 					
 					case add:		output = output + val;	break

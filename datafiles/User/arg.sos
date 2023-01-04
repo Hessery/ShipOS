@@ -1,2 +1,3 @@
 global arg0 = arg0 + 1
+clear
 print arg0
